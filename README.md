@@ -1,5 +1,10 @@
 # CSCI 5709 Tutorials
 
+URL to Tutorial repository - https://git.cs.dal.ca/athaker/CSCI-5709-Tutorials
+
+URL to Tutorial 2 repository - https://git.cs.dal.ca/athaker/CSCI-5709-Tutorials/-/tree/main/Tutorial2?ref_type=heads
+
+URL to Assignment repository - https://git.cs.dal.ca/athaker/csci5709-assignments
 
 
 ## Getting started
